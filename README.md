@@ -1,4 +1,4 @@
-# Read to 100 Problems
+# 0 - 100 Real Quick (Python Problems)
 
 Today, 2015 August 21st, I am going to embark on a journey of completing 100 python problems. Ranging from increasing complexities from 1-3.
 
