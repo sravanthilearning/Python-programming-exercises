@@ -10,6 +10,7 @@ Easy | Medium | Hard
 >Through every dark night, there's a bright day after that. 
 >So no matter how hard it get, stick your chest out, 
 >keep ya head up.... and handle it.” 
+
 ― Tupac Shakur
 
 
