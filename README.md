@@ -18,5 +18,5 @@ Easy | Medium | Hard
 <br>
 
 ```python
-is = 'going to be the language of choice'
+python = 'is going to be the language of choice'
 ```
