@@ -7,7 +7,6 @@ Easy | Medium | Hard
 1 | 2 | 3
 
 <br>
-<br>
 >“I know it seems hard sometimes but remember one thing. 
 >Through every dark night, there's a bright day after that. 
 >So no matter how hard it get, stick your chest out, 
