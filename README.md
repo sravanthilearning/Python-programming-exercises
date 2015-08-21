@@ -2,7 +2,7 @@
 
 Today, I am going to 
 
-{% highlight python3%}
+{% highlight python3 %}
 for i in you:
 	print(you are a good boy)
 	False
