@@ -24,4 +24,7 @@ def anti_vowel(text):
 	text = text.lower()
 	vowels = ['a','e','i','o','u']
 	return ''.join([x for x in text if x not in vowels])
+
+anti_vowel(python)
+Output: 's gng t b th lngg f chc'
 ```
