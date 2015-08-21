@@ -29,4 +29,5 @@ anti_vowel(python)
 Output: 's gng t b th lngg f chc'
 ```
 
-So, sit back and enjoy the ride ;-).
+####So, sit back and enjoy the ride...
+## Here... We... GO! :facepunch:
