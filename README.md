@@ -19,4 +19,8 @@ Easy | Medium | Hard
 
 ```python
 python = 'is going to be the language of choice'
+def anti_vowel(text):
+	text = text.lower()
+	vowels = ['a','e','i','o','u']
+	return ''.join([x for x in text if x not in vowels])
 ```
