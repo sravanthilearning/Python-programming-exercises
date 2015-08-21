@@ -30,6 +30,5 @@ Output: 's gng t b th lngg f chc'
 ```
 
 You are welcome to work on these with me and send request pull your solutions! I promise I won't look at your solutions haha. Only for cross-checking once I complete my solution. Perhaps this repository might be of use to other learners who can see multiple solutions to a problem.
-
 <em>In any case...</em>
 # Here... We... GO! 	:facepunch:
