@@ -2,6 +2,8 @@
 
 Today, 2015 August 21st, I am going to embark on a journey of completing 100 python problems. Ranging from increasing complexities from 1-3.
 
+## Complexity Scale:
+
 Easy | Medium | Hard
 --- | --- | ---
 1 | 2 | 3
