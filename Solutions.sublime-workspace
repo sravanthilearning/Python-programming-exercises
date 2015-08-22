@@ -1,0 +1,527 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "my_solutions/Solution2.py",
+			"settings":
+			{
+				"buffer_size": 1622,
+				"line_ending": "Unix",
+				"name": "Solution2.py"
+			}
+		},
+		{
+			"contents": "#SHORTCUTS\n[Key Sublime Shortcuts](http://webdesign.tutsplus.com/tutorials/useful-shortcuts-for-a-faster-workflow-in-sublime-text-3--cms-22185)\n\nctrl+,, s Selection\nctrl+,, f File\nctrl+,, l Lines\nctrl+,, b Block\nctrl+alt+b Run Python Terminal\ncmd+l 	Select Current Line\ncmd+shift+g	Multiple cursor on specifc keyword",
+			"file": "my_solutions/Sublime Shortcus.md",
+			"file_size": 78,
+			"file_write_time": 130847121740000000,
+			"settings":
+			{
+				"buffer_size": 316,
+				"line_ending": "Unix",
+				"name": "#SHORTCUTS"
+			}
+		},
+		{
+			"contents": "Python 2.7.6 (default, Sep  9 2014, 15:04:36) \n[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.39)] on darwin\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n>>> 5+5\n10\n>>> ",
+			"settings":
+			{
+				"buffer_size": 198,
+				"line_ending": "Unix",
+				"name": "*REPL* [python]",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "bash: no job control in this shell\nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ ls\nSolution2.py\nSolution3problem.py\nSolutions.sublime-project\nSolutions.sublime-workspace\nSublime Shortcus.md\n__pycache__\nempty.sublime-workspace\nempty.txt\nbash-3.2$ ls\nSolution2.py\nSolution3problem.py\nSolutions.sublime-project\nSolutions.sublime-workspace\nSublime Shortcus.md\n__pycache__\nempty.sublime-workspace\nempty.txt\nbash-3.2$ alias\nbash-3.2$ \nbash-3.2$ \nbash-3.2$ \nbash-3.2$ ls\nSolution2.py\nSolution3problem.py\nSolutions.sublime-project\nSolutions.sublime-workspace\nSublime Shortcus.md\n__pycache__\nempty.sublime-workspace\nempty.txt\nbash-3.2$ cd dropbox\nbash: cd: dropbox: No such file or directory\nbash-3.2$ ls\nSolution2.py\nSolution3problem.py\nSolutions.sublime-project\nSolutions.sublime-workspace\nSublime Shortcus.md\n__pycache__\nempty.sublime-workspace\nempty.txt\nbash-3.2$ cd ..\nbash-3.2$ ls\n100+ Python challenging programming exercises.md\nREADME.md\nSolutions.sublime-project\nSolutions.sublime-workspace\nmarkdown-here.wiki\nmy_solutions\npython contents.docx\npython contents.txt\nbash-3.2$ cd\nbash-3.2$ ls\nAnaconda\nApplications\nDesktop\nDocuments\nDownloads\nDropbox\nGoogle Drive\nLibrary\nMovies\nMusic\nPictures\nPublic\nbash-3.2$ cd dropbox\nbash-3.2$ ls\nApps\nCalculus One\nCamera Uploads\nClosed sicillian attack.pgn\nDROP SYNC\nDad Work\nHive-1BJ4G\nIcon\nLightroom Exports\nMiscellenous\nNew Game.pgn\nPsych Pics\nScreenshots\ndatajoy\ngithub\nipython notebooks\nmohsen1.github.io\nbash-3.2$ ll\nbash: ll: command not found\nbash-3.2$ ll\nbash: ll: command not found\nbash-3.2$ cd github\nbash-3.2$ ls\nCisco\nGalvanize\nGithub_Tips_Tricks\nIPython-notebooks\nPython-programming-exercises\nSublimeProjects\nbootstrap\npython-programs\nrafeh01.github.io\nscript\nbash-3.2$ ",
+			"settings":
+			{
+				"buffer_size": 2060,
+				"line_ending": "Unix",
+				"name": "*REPL* [shell]",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sublimerepl",
+				"Build With: sublimerepl_build_system_hack"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build With: Python - Syntax Check"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 116.0,
+		"history":
+		[
+			"stdin(1,2)",
+			"5+5",
+			"5_5",
+			"5+5"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ChessTastic/Dropbox/github/Python-programming-exercises/my_solutions/Solution3problem.py",
+		"/Users/ChessTastic/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"enter",
+			"Input",
+			"been",
+			"introductory",
+			"in1",
+			"stdin",
+			"b",
+			"section",
+			"c",
+			"section",
+			"python",
+			"github",
+			"git",
+			"users",
+			"chesstastic",
+			"sta",
+			"git",
+			"rafeh"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "my_solutions/Solution2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1622,
+								1622
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Solution2.py",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "my_solutions/Sublime Shortcus.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#SHORTCUTS",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "c8dc5b7b676f42989a320c214ab28112",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-i",
+									"-u"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1749,
+								1749
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "shell",
+							"repl_id": "44fa0f2297b04464b5d5b154ffe0e1a1",
+							"repl_restart_args":
+							{
+								"cmd":
+								{
+									"linux":
+									[
+										"bash",
+										"-i"
+									],
+									"osx":
+									[
+										"bash",
+										"-i"
+									],
+									"windows":
+									[
+										"cmd.exe"
+									]
+								},
+								"cmd_postfix": "\n",
+								"cwd": "$file_path",
+								"encoding":
+								{
+									"linux": "utf-8",
+									"osx": "utf-8",
+									"windows": "$win_cmd_encoding"
+								},
+								"env":
+								{
+								},
+								"external_id": "shell",
+								"suppress_echo": true,
+								"syntax": "Packages/Text/Plain text.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2007.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				3
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			],
+			[
+				1,
+				2,
+				2,
+				3
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.740640258789,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.143552311436,
+			0.63896080444,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Solutions.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/github/Python-programming-exercises/my_solutions/Solution3problem.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/github/Python-programming-exercises/my_solutions/Solutions.sublime-project"
+			],
+			[
+				"sol",
+				"~/Dropbox/github/Python-programming-exercises/Solutions.sublime-project"
+			],
+			[
+				"solution",
+				"~/Dropbox/github/Python-programming-exercises/Solutions.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 3,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				3
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			],
+			[
+				1,
+				2,
+				2,
+				3
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 120.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
