@@ -37,7 +37,6 @@ def is_good_number(number):
 def error_message():
     """
     Print an error message based on an ill formed number.
-    :return: str
     """
     pass
 
@@ -45,7 +44,6 @@ def error_message():
 def blank_lines():
     """
     Print blank lines on a successfully formed number.
-    :return: str
     """
     pass
 
@@ -83,7 +81,6 @@ def player_progress(num_of_guesses, user_guess, correct_digits, correct_pos_digi
     :param user_guess: str
     :param correct_digits: int
     :param correct_pos_digits: int
-    :return: str
 
     >>> player_progress(5, '12345', 4, 3)
     ------------------------------
@@ -95,12 +92,25 @@ def player_progress(num_of_guesses, user_guess, correct_digits, correct_pos_digi
     """
 
     print('------------------------------')
-    print('Used guesses: {}'.format(5))
-    print('User guess: {}'.format('12345'))
-    print('Digits correct: {}'.format(4))
-    print('Digits in correct position: {}'.format(3))
+    print('Used guesses: {}'.format(num_of_guesses))
+    print('User guess: {}'.format(user_guess))
+    print('Digits correct: {}'.format(correct_digits))
+    print('Digits in correct position: {}'.format(correct_pos_digits))
     print('------------------------------')
-    pass
+
+
+def success_message(num_of_guesses):
+    """
+    If user guesses number successfully, print how many guesses were used.
+
+    :param num_of_guesses: int
+
+    >>> success_message(5)
+    Congratulations! You have successfully guessed the secret number!
+    It took you 5 guesses to get it right!
+    """
+    print('Congratulations! You have successfully guessed the secret number!')
+    print('It took you {} guesses to get it right!'.format(num_of_guesses))
 
 
 if __name__ == '__main__':
