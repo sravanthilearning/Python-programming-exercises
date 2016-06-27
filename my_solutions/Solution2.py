@@ -38,9 +38,10 @@ The above sample should be taken seriously. The input will be 2 and 3 in two sep
 
 # STDIN means read input.
 
-def stdin(in1,in2):
-	a+b
-print (5+5)
-print (5+5)
+def solveMeFirst(a,b):
+	return (a+b)
 
-import seaborn as sns
+user1 = int(raw_input("Put your number here: "))
+user2 = int(raw_input("Put your number here: "))
+
+print(solveMeFirst(user1, user2))
