@@ -101,7 +101,8 @@ def player_progress(num_of_guesses, user_guess, correct_digits, correct_pos_digi
 
 def success_message(num_of_guesses):
     """
-    If user guesses number successfully, print how many guesses were used.
+    If user guesses the secret number successfully,
+    show how many guesses were used.
 
     :param num_of_guesses: int
 
@@ -109,8 +110,28 @@ def success_message(num_of_guesses):
     Congratulations! You have successfully guessed the secret number!
     It took you 5 guesses to get it right!
     """
+
     print('Congratulations! You have successfully guessed the secret number!')
     print('It took you {} guesses to get it right!'.format(num_of_guesses))
+
+
+def guesses_exceeded(allowed_guesses, num_of_guesses):
+    """
+    Set the maximum number of guesses and notify the user
+    that they lost when they exceed the limit.
+
+    :param allowed_guesses: int
+    :param num_of_guesses: int
+
+    >>> guesses_exceeded(5, 6)
+    Allowed guesses: 5
+    Used guesses: 6
+    You have exceeded your limit of guesses, you lose!
+    """
+
+    print('Allowed guesses: {}'.format(allowed_guesses))
+    print('Used guesses: {}'.format(num_of_guesses))
+    print('You have exceeded your limit of guesses, you lose!')
 
 
 if __name__ == '__main__':
