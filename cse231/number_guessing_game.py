@@ -100,6 +100,7 @@ def report_results(user_number, secret_number):
     return correct_digits, correct_pos_digits
 
 
+
 def player_progress(num_of_guesses, user_guess, correct_digits, correct_pos_digits):
     """
     Report the player's current progress.
